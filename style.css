@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+}
+.size-26 {
+    font-size: 26px;
+}
+.size-34 {
+    font-size: 34px;
+}
+.brown-tea {
+    color: #721c1c;
+}
+
+.green-tea {
+    color: #095609;
+}
+
+.white-tea {
+    color: #a6a65d;
+}
+
+ul {
+    font-size: 32px;
+}
+ol {
+    font-size: 24px;
+}
+img {
+    width: 300px;
+    height: 240px
+}
+h1 {
+    font-family: math;
+    font-size: 76px;
+    text-align: center;
+    margin: 20px;
+    max-width: 50%;
+}
+h2 {
+    font-size: 44px;
+    margin-left: 65px;
+}
+p {
+    font-size: 24px
+}
+/*.columns {*/
+/*    column-count: 3;*/
+/*}*/
+
+.column {
+    display:flex;
+}
+
+
+
+
+
+
+
+
+
